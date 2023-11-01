@@ -2,8 +2,7 @@
 
 | Project | Description |
 | ------- | ----------- |
-| Home Value Trends | Project answering questions from [home-value-trends](https://discuss.codecademy.com/t/data-science-independent-project-4-home-value-trends/419948?_gl=1*1t2z3fs*_ga*ODUyNDAwMzMyMC4xNjk4NDk1NzIw*_ga_3LRZM6TM9L*MTY5ODYyNTYwNy41LjEuMTY5ODYyNjA2Ni40LjAuMA..). |
-
+| Home Value Trends | Analyze home values by zipcode, state and year. [Notebook](Home-Value-Trends/home_value.ipynb) |
 
 ## Installation
 
