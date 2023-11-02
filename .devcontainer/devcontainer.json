@@ -1,0 +1,16 @@
+{
+    "build": {
+      "dockerfile": "Dockerfile",
+      "cacheFrom": "mcr.microsoft.com/devcontainers/python:3.8"
+    },
+    "customizations": {
+      "vscode": {
+        "extensions": [
+          "cschlosser.doxdocgen",
+          "ms-vscode.python",
+          "ms-toolsai.jupyter",
+          "esbenp.prettier-vscode"
+        ]
+      }
+    }
+}
